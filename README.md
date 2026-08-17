@@ -73,6 +73,7 @@ For skincare only:
 
 ### Safety & Privacy Language (required in UI)
 - “This feature is a casual visual-comparison tool and **not** a dermatological diagnostic instrument.”
+- Exact plain-language disclaimer copy: “This is not a dermatological diagnostic instrument.”
 - “Photos stay on your device by default.”
 - “Photos are only sent externally if you explicitly enable cloud analysis.”
 
